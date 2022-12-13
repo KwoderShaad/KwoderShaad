@@ -4,7 +4,7 @@
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadshaad)](https://www.linkedin.com/in/muhammadshaad) [![Gmail Badge](https://img.shields.io/badge/-shaadmuhammad@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shaadmuhammad@gmail.com)](mailto:shaadmuhammad@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-KwoderShaad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadshaad)](https://www.linkedin.com/in/muhammadshaad) [![Gmail Badge](https://img.shields.io/badge/-shaadmuhammad@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shaadmuhammad@gmail.com)](mailto:shaadmuhammad@gmail.com) 
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
@@ -25,35 +25,29 @@
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Haany Ali'
+ 	user = 'Muhammad Shaad'
 		current_work = 'Writing code'
 		hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
+				'Football',
+				'Watching F1',
 				'Being up all Night chasing that ONE BUG...'
 			]
 	
 	def getCity():
-		return Hyderabad_India()
+		return Dubai()
 	
 	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
+		LearnML()
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
  
 ## Current Works
- * Started learning MERN Stack !!
+ * Started learning Node JS !!
  * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
  * Getting Started with NodeJS and the MERN Stack!!
  
-## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1uxq1shtoVfoD8D4sD5MHN3drGVA50vlz/view?usp=sharing)
-  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=MarikIshtar007&show_icons=true&hide=[%22issues%22])
+![Kwoder's github stats](https://github-readme-stats.vercel.app/api?username=KwoderShaad&show_icons=true&hide=[%22issues%22])
  
  

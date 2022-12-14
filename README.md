@@ -46,7 +46,6 @@
 ## Current Works
  * Started learning Node JS !!
  * I'm currently working on 🔭 building **Mobile Apps** and working up on polishing my skills 🌱 in **Competitive Programming**.
- * Getting familiar with Flask!!
  
 
 

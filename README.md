@@ -11,7 +11,7 @@
 ## :computer: Technologies I Love
 * Machine Learning
 * Data Science
-* Frontend and Backend Web Development
+* Frontend and Backend Development
 
 <img src = "https://github-readme-stats.vercel.app/api?username=KwoderShaad&count_private=true">
 
